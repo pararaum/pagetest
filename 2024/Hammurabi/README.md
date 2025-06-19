@@ -19,8 +19,8 @@ Est provident explicabo harum rerum tenetur dolorum ut quos. Iste velit dolorem 
 
 ## Links ##
 
-  * https://csdb.dk/release/?id=241460
-  * https://demozoo.org/productions/343109
+  * [https://csdb.dk/release/?id=241460](https://csdb.dk/release/?id=241460)
+  * [https://demozoo.org/productions/343109](https://demozoo.org/productions/343109)
 
 ## Original BASIC Code ##
 
